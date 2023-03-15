@@ -1,0 +1,16 @@
+* {
+    font-family: 'Comfortaa', cursive;
+}
+
+.navbar {
+    background-color: rgb(240, 178, 255);
+}
+
+.btn {
+    background-color: rgb(100, 237, 118);
+    color: rgb(0, 0, 0);
+}
+
+.footer-color {
+    background-color: rgb(240, 178, 255);
+}
