@@ -25,3 +25,7 @@
 .footer-color {
     background-color: rgb(240, 178, 255);
 }
+
+.avatar {
+    width: 400px;
+}
